@@ -1,4 +1,4 @@
-# Learning Spring AI
+# Implementing LLMs and APIs
 
-A sandbox repository tracking my journey into building AI-powered applications with Java and the [Spring AI](https://docs.spring.io/spring-ai/reference/) framework.
-stay ahead for further update
+In this project im implementing LLMs Locally via Ollama with qwen2.5:7b and Remote used Google gemini apis and Passing the Messages For Getting Responses, 
+It's initial stage
